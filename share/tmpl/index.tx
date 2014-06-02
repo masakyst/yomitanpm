@@ -1,0 +1,19 @@
+: cascade base
+: around content -> {
+<nav>
+  <ul>
+    <li><a href="<: '/archives.html' | uri_for :>">Archives</a></li>
+  </ul>
+</nav>
+
+<br>
+
+:   for $blog.entries(limit => 5) -> $entry {
+            <h2 class="blog-post-title"><a href="<: $entry.site_path | uri_for :>"><: $entry.title :></a></h2>
+            <p class="blog-post-meta"><: $entry.published_at().strftime('%Y-%m-%d %H:%M') :> <a href="#"><: $blog.author :></a></p>
+            <p>
+            <: $entry.html_body_without_title() | mark_raw :>
+            </p>
+            <hr>
+:   }
+: }
