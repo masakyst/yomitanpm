@@ -5,7 +5,50 @@
 <author>masakyst</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="0.0.13">Perl Riji</generator>
 <id>tag:yomitanpm.org,2014-06-02:</id>
-<updated>2014-06-02T15:38:40+09:00</updated>
+<updated>2014-06-02T15:58:54+09:00</updated>
+<entry>
+<title type="text">Yomitan.pm #2 開催しました</title>
+<link href="http://yomitanpm.org/entry/20130622.html" />
+<author>
+<name>masakyst</name>
+</author>
+<content><![CDATA[<h2>Yomitan.pm #2 開催しました</h2>
+
+<p>第2回 Yomitan.pmが 6/22(土)に 開催しました！(完全に記事書き遅れました...</p>
+
+<p><a href="http://jaws-ug.jp/">JAWS-UG沖縄</a> さんとの合同イベント「監視/インフラもくもく勉強会」</p>
+
+<p>北谷の「<a href="http://summer-time-studio.com/CreatorsResidence/index.html">クリエイターズレジデンス</a>」にて！</p>
+
+<p><img src="/static/images/201309/crereji.jpg" title="crereji" alt="crereji" /></p>
+
+<p>発表者と発表内容
+<a href="https://twitter.com/Tomohiro">@Tomohiro</a> さん Chefとserverspec
+とても旬なツールを使ったデモでした。まさに最先端という感じですね! さすがRuby hacker!!</p>
+
+<p><a href="https://twitter.com/masakyst">@masakyst</a> CloudForecast
+ひたすらビルド画面を見せつけるという感じになりました!! でも多様なグラフは紹介できました!</p>
+
+<p><a href="https://twitter.com/k_nishijima">@k_nishijima</a> さん AWS+munin+monit
+サーバインフラに長けた西島さん安定のツール紹介ですね!! その他、fluentdの話も質問を交えて。</p>
+
+<p>といった感じで、参加人数も16人？とYomitan.pm単独より全然多く、65インチモニターでマイクを使いながら発表するという、ゆるくない感じだったので正直どきどきでした。
+(案の定、てんぱってたので写真すくないです....</p>
+
+<p>なお今回、イベント終了後に、発表者3名と琉球新報さんとで「<a href="http://hackers-champloo.org/">ハッカーズチャンプルー</a>」の打ち合わせをしました。</p>
+
+<p><a href="http://hackers-champloo.org/">ハッカーズチャンプルー</a> は、沖縄県内のIT系ユーザグループが合同で企画する夏祭りです。全国各地からゲストをお招きし、ハッカー/エンジニア/エバンジェリスト同士が各専門分野を超えて相互交流しようという企画です。</p>
+
+<p>Yomitan.pm はPerl勢 講師として、<a href="http://blog.livedoor.jp/dankogai/">小飼弾さん</a> をお呼びする事に成功しました!!</p>
+
+<p>Yomitan.pm主催者は、Perl Mongers Groupをはじめて間もないところで微力ですが、沖縄IT発展に貢献できればと思います</p>
+
+<p>それでは、また次回!!</p>
+]]></content>
+<id>tag:yomitanpm.org,2014-06-02:entry-20130622.html</id>
+<published>2013-06-22T00:00:00+0900</published>
+<updated>2014-06-02T15:58:54+09:00</updated>
+</entry>
 <entry>
 <title type="text">YAPC::Asia Tokyo 2013 に参加しました!</title>
 <link href="http://yomitanpm.org/entry/20130924.html" />
