@@ -1,31 +1,15 @@
-1st step -- configuration
---------
+Yomitan Perl Mongers
+====================
 
-Edit your 'riji.yml'.
+Yomitan.pm
+----------
 
-2nd step -- create your blog entry
---------
+沖縄県(中部)を中心とするPerl ユーザのコミュニティ形成を目指す非営利の団体です。 主な活動内容はプログラミング言語 Perl に関係するメンバー主催の勉強会やインターネット上での啓蒙活動や情報交換です。 どなたでも無料で参加できます。連絡先/情報発信は、 twitter @yomitanpm です。
 
-Edit your blog entry by markdown notation, save into 'article/entry' and git commit it.
-`riji new-entry` sub command is also available helping you to create new entry easily.
 
-3rd step -- confirmation
---------
+チャットルーム
+--------------
 
-You can see the blog at local environment by using built in server as following step.
+http://lingr.com/room/yomitanpm
 
-    % riji server
 
-4th step -- publish your entry
---------
-
-You can publish static blog directory as follows.
-
-    % riji publish
-
-'blog/' directory is created. Now, you can publish it to any servers.
-
-5th step -- customize
---------
-
-You can customize your blog design by editing template, css, js or etc in share directory.
