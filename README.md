@@ -7,7 +7,7 @@ Yomitan Perl Mongers ( Yomitan.pm
 twitter
 -------
 
-"@yomitanpm":https://twitter.com/yomitanpm 
+@yomitanpm https://twitter.com/yomitanpm 
 
 
 lingr chat room
