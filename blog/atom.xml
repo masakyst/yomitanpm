@@ -5,7 +5,83 @@
 <author>masakyst</author>
 <generator uri="https://github.com/Songmu/p5-Riji" version="0.1.3">Perl Riji</generator>
 <id>tag:yomitanpm.org,2014-06-02:</id>
-<updated>2014-06-02T16:00:25+09:00</updated>
+<updated>2014-10-17T11:25:20+09:00</updated>
+<entry>
+<title type="text">Yomitan.pm #4 開催しました</title>
+<link href="http://yomitanpm.org/entry/20140927.html" />
+<author>
+<name>masakyst</name>
+</author>
+<content><![CDATA[<h2>Yomitan.pm #4 開催しました</h2>
+
+<p><a href="https://atnd.org/events/56032">第4回 Yomitan.pm</a> を 1年ぶりに9/27(土)に 開催しました!!</p>
+
+<p>JAWS-UG沖縄さんからの会場提供の元 <a href="http://jaws-ug-okinawa.doorkeeper.jp/events/14797">AWSハンズオン/もくもく勉強会</a> と合同開催
+という形になりました。</p>
+
+<p><a href="http://www.gbic.jp/cafe/">GwaveCafe （沖縄県宜野湾市宇地泊558-18　宜野湾ベイサイド情報センター）</a></p>
+
+<p><img src="/static/images/201409/gwavecafe.jpg" title="Gwave Cafe" alt="gwavecafe" /></p>
+
+<p><br></p>
+
+<p>今回は一年ぶりでメンバー集まるかな...という思いと裏腹に、
+だいぶ新メンバーが増えました！</p>
+
+<p><a href="https://atnd.org/events/56032">Yomitan.pm #4</a></p>
+
+<p><img src="/static/images/201409/mongers.jpg" title="perl mongers" alt="perl mongers" /></p>
+
+<p><br></p>
+
+<p>最初は雑談で、</p>
+
+<ul>
+<li>自己紹介などなど</li>
+<li>ヨコダネンさんがYAPC::Asia 2014にいったところの感想</li>
+<li>今後、Yomitan.pmどうして行こうか (Ryudai.pm作りたい!!?)</li>
+<li><a href="http://japan.perlassociation.org/">JPA</a> さんの<a href="http://japan.perlassociation.org/services/send-a-monger">地域PM向け 講師派遣支援プログラム</a>を使うには公式にした方が良いとの事</li>
+</ul>
+
+
+<p>などなど。</p>
+
+<p><br></p>
+
+<p>その後はいくつかLT</p>
+
+<p>CPAN Authorになってみました
+<a href="https://twitter.com/adokoy0001">@adokoy0001</a></p>
+
+<p><a href="http://kumaosan-web2.com:5000">http://kumaosan-web2.com:5000</a></p>
+
+<p>僕がよく使うCPANモジュール
+<a href="https://twitter.com/masakyst">@masakyst</a></p>
+
+<p><a href="http://masakyst.github.io/talks/20140927-cpan-module/cpan_modules.pdf">http://masakyst.github.io/talks/20140927-cpan-module/cpan_modules.pdf</a></p>
+
+<p><br></p>
+
+<p>みんな慣れてきた感じか、質問多数や地べたでコーディングはじめるなど、
+良い感じになって来てるんじゃないでしょうか！！</p>
+
+<p>今回、若手Perl Mongersや、Perlを使ってる企業さんも発見できましたし、どうやらまだまだ沖縄にはPerl Mongerが眠っているような気がします。
+Yomitan.pmに少しでも目が止まれば、自分たちのローカルな地で、またPMが立ち上がるかもしれませんね！</p>
+
+<p>終わった後には、JAWS-UG沖縄さんメンバー含め、懇親会です。</p>
+
+<p><img src="/static/images/201409/konshinkai.jpg" title="懇親会" alt="konshinkai" /></p>
+
+<p>突然右からのPerl disの絵</p>
+
+<p><br></p>
+
+<p>それでは、また次回!!</p>
+]]></content>
+<id>tag:yomitanpm.org,2014-10-16:entry-20140927.html</id>
+<published>2014-09-27T00:00:00+0900</published>
+<updated>2014-10-17T11:25:20+09:00</updated>
+</entry>
 <entry>
 <title type="text">Yomitan.pm #2 開催しました</title>
 <link href="http://yomitanpm.org/entry/20130622.html" />
